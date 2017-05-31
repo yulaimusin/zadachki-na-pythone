@@ -47,6 +47,9 @@ class Rectangle:
             return False
 
 
+"""
+Пример использования:
+"""
 rectangle = Rectangle(-3, 2, 4, -2)
 print(rectangle.get_length())  # 7
 print(rectangle.get_width())  # 4
